@@ -5,7 +5,7 @@
 ## Run `mix do deps.get, compile` to install the dependencies, then run `mix ecto.create` and `mix ecto.migrate` to create you db.
 ## Run `mix phx.server` or `iex -S mix phx.server` to run the app. 
 
-### Check out the Youtube Tutorial for this [Phoenix Program](https://youtu.be/_mU-D6coRf4). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Phoenix Program](https://youtu.be/_rlG4xtZzbU). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
